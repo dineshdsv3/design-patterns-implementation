@@ -1,0 +1,4 @@
+{
+    "PC" : "() => new PC()",
+    "Laptop": "() => new Laptop()"
+}
