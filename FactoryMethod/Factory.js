@@ -26,7 +26,7 @@ class Factory {
     //   return new Laptop();
     // }
     // let computers = require('./computers.json')
-    //! Need to change this from the different file
+    //! Need to change this from the different configuration file
     let computers = {
       "PC":  () =>  new PC(),
       "Laptop": () =>  new Laptop(),
