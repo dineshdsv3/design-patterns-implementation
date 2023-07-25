@@ -26,6 +26,7 @@ class Factory {
     //   return new Laptop();
     // }
     // let computers = require('./computers.json')
+    //! Need to change this from the different file
     let computers = {
       "PC":  () =>  new PC(),
       "Laptop": () =>  new Laptop(),
